@@ -1,5 +1,5 @@
 #Q-1  Remove list digit 
-'''
+
 n = int(input("Enter a number"))
 l = n//10
 print("without lastdigit is = ",l)
@@ -19,7 +19,7 @@ print("Swap two number :",x,y)
 num = int(input("Enter three digit number:"))
 num = num//100
 print("print first digit = ",num)
-'''
+
 #Q-5 three digit number print middle digit
 nu = int(input("Enter three digit number :"))
 nu = nu//10
